@@ -68,6 +68,9 @@
       "name": "packet-astrotame"
     },
     {
+      "name": "packet-crazy"
+    },
+    {
       "name": "packet-bbq"
     },
     {
@@ -129,6 +132,9 @@
     },
     {
       "name": "packet-label-a"
+    },
+    {
+      "name": "packet-label-b"
     },
     {
       "name": "packet-trans-1"

@@ -1,6 +1,9 @@
 reagent-name-astrotame = Astrotame
 reagent-desc-astrotame = The sweetness of a thousand sugars but none of the calories.
 
+reagent-name-crazysauce = Crazy Sauce
+reagent-desc-crazysauce = The sauce that makes you turn red, and then blue. Now with new barnacle extract!
+
 reagent-name-bbq-sauce = BBQ sauce
 reagent-desc-bbq-sauce = Hand wipes not included.
 

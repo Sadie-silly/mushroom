@@ -8,6 +8,11 @@
   id: sweet
   flavorType: Base
   description: flavor-base-sweet
+  
+- type: flavor
+  id: crazy
+  flavorType: Base
+  description: flavor-base-crazy
 
 - type: flavor
   id: salty

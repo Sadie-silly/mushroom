@@ -8,6 +8,17 @@
   puddleSpriteSet: Powder
   color: aquamarine
   recognizable: true
+  
+- type: reagent
+  id: CrazySauce
+  name: reagent-name-crazysauce
+  group: Foods
+  desc: reagent-desc-crazysauce
+  physicalDesc: reagent-physical-desc-putrid
+  flavor: crazy
+  puddleSpriteSet: Blood
+  color: gray
+  recognizable: true
 
 - type: reagent
   id: BbqSauce

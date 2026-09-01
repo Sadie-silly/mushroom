@@ -10,6 +10,7 @@ flavor-profile-unknown = Tastes indescribable.
 
 flavor-base-savory = savory
 flavor-base-sweet = sweet
+flavor-base-crazy = crazy
 flavor-base-salty = salty
 flavor-base-sour = sour
 flavor-base-bitter = bitter
